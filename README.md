@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NeoRanga
-- 👀 I’m interested in PHP, Python, C++
+- 👀 I’m interested in PHP, Python, C++.
 -
 
 <!---
